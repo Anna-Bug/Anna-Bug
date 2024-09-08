@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anna-Bug
-- 👀 I’m interested in cooking
-- 🌱 I’m currently learning applied calculus
+- 👀 I’m interested in classic rock, cooking, reading, and all sorts of sports
+- 🌱 I’m currently learning about sustainable agricultural 
 
 
 <!---
